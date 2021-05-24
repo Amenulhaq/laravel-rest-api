@@ -1,0 +1,22 @@
+{
+    "name": "laravel-rest-api",
+    "description": "RestAPI template for Laravel",
+    "type": "library",
+    "require": {
+        "laravel/framework": "5.6.*|5.7.*|5.8.*|6.*|7.*|8.*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "\RestAPI\\": "src",
+            "\RestAPI\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amen ul haq",
+            "email": "amenulhaq@gmail.com"
+        }
+    ]
+}
+
